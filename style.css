@@ -98,6 +98,7 @@ div div:nth-child(even) {
 div div div {
     width: 3rem;
     height: 3rem;
+    border: none;
     background-color: #F05713;
 }
 
